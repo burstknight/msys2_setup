@@ -1,0 +1,1 @@
+# msys2_setup
