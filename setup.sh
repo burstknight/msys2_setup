@@ -4,3 +4,8 @@ pacman -S --needed vim git ${MINGW_PACKAGE_PREFIX}-python ${MINGW_PACKAGE_PREFIX
 
 echo "================== Finish =================="
 
+echo "Setup python enviroment..."
+python -m pip install --upgrade pip
+pip install virtualenv
+echo "================== Finish =================="
+
