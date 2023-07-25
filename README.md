@@ -15,4 +15,5 @@ pacman -Syu
 ```sh
 sh setup.sh
 ```
+4. Restart the `msys2` terminal.
 
